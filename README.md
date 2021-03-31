@@ -1,2 +1,2 @@
-# Machine Learning with python
+# Python
 Analytics Projects using python
